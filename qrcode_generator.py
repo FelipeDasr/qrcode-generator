@@ -10,7 +10,6 @@ from os import remove
 qrcode_interface = \
     """
     <?xml version="1.0" encoding="UTF-8"?>
-    <!-- Generated with glade 3.36.0 -->
     <interface>
       <requires lib="gtk+" version="3.22"/>
       <object class="GtkWindow" id="main">
