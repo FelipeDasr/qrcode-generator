@@ -183,7 +183,8 @@ css_style_light = \
     }
     #entry_link 
     { 
-        background: #FCFCFC; color: #2E3436; 
+        background: #FCFCFC; 
+        color: #2E3436; 
     }
     #button_done 
     {
