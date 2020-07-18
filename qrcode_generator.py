@@ -223,8 +223,11 @@ css_style_dark = \
     { 
         color: #FFFAFA; 
     }
-    
-    #label { color: #FFFAFA; font-size: 13px; }
+    #label 
+    { 
+        color: #FFFAFA; 
+        font-size: 13px;
+    }
     """
 
 
