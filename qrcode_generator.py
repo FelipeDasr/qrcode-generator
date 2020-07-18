@@ -178,28 +178,51 @@ qrcode_interface = \
 
 css_style_light = \
     b"""
-    #main { background: #F6F5F4; }
-    
-    #entry_link { background: #FCFCFC; color: #2E3436; }
-    
-    #button_done { background: #EDEBE9; color: #2E3436; }
-    
-    .radio_theme { color: #2E3436; }
-    
-    #label { color: #2E3436; }
+    #main 
+    { 
+        background: #F6F5F4; 
+    }
+    #entry_link 
+    { 
+        background: #FCFCFC; color: #2E3436; 
+    }
+    #button_done 
+    {
+        background: #EDEBE9; 
+        color: #2E3436; 
+    }
+    .radio_theme 
+    { 
+        color: #2E3436; 
+    }
+    #label 
+    { 
+        color: #2E3436;  
+    }
     """
 
 css_style_dark = \
     b"""
-    #main { background: #36393F; }
-    
-    #entry_link {
+    #main 
+    { 
+        background: #36393F; 
+    }
+    #entry_link 
+    {
         border-color: white; 
-        background: #40444B; font-size: 13px; color: #FFFAFA; }
-        
-    #button_done { background: #40444B; color: #FFFAFA; }
-    
-    .radio_theme { color: #FFFAFA; }
+        background: #40444B; 
+        font-size: 13px; 
+        color: #FFFAFA; 
+    }
+    #button_done 
+    { 
+        background: #40444B; 
+        color: #FFFAFA; 
+    }
+    .radio_theme 
+    { 
+        color: #FFFAFA; 
+    }
     
     #label { color: #FFFAFA; font-size: 13px; }
     """
